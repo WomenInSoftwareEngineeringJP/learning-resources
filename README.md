@@ -9,7 +9,7 @@
 - https://progate.com/ 🇯🇵 🇬🇧
 - https://www.w3schools.com/default.asp 🇬🇧
 - https://www.freecodecamp.org/ 🇬🇧
-- https://techacademy.jp/magazine/36 🇯🇵
+- [ゼロから学べる！プログラミングの無料学習サイト【国内外あわせて20選】](https://techacademy.jp/magazine/36) 🇯🇵
 
 
 ## Frontend フロントエンド ✨
