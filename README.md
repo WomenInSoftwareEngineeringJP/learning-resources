@@ -1,7 +1,9 @@
  # Free Learning Resources 無料の学習リソース 👩‍💻
 
 🔰 beginner /初心者
+
 🇬🇧 English / 英語
+
 🇯🇵 Japanese / 日本語
 
 ## Beginner 初心者 🔰
