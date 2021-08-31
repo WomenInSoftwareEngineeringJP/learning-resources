@@ -11,6 +11,9 @@
 - https://www.freecodecamp.org/ 🇬🇧
 - [ゼロから学べる！プログラミングの無料学習サイト【国内外あわせて20選】](https://techacademy.jp/magazine/36) 🇯🇵
 
+## Knowledge sharing
+- https://qiita.com/ 🇯🇵
+- https://stackoverflow.com/ 🇬🇧
 
 ## Frontend フロントエンド ✨
 
@@ -59,7 +62,7 @@
 
 ## UI / UX 🎨
 - https://grow.google/uxdesign/#?modal_active=none 🇬🇧
-- [Hexagon UX](http://hexagonux.com/tokyo)
+- [Hexagon UX](http://hexagonux.com/tokyo) 🇬🇧 🇯🇵
 
 ## Leadership リーダーシップ 👩‍🚀
-- [LeadDev](https://leaddev.com/)
+- [LeadDev](https://leaddev.com/) 🇬🇧
