@@ -2,6 +2,8 @@
 
 🔰 beginner /初心者
 
+👑 advanced / 高度
+
 🇬🇧 English / 英語
 
 🇯🇵 Japanese / 日本語
@@ -11,21 +13,31 @@
 - https://progate.com/ 🇯🇵 🇬🇧
 - https://www.w3schools.com/default.asp 🇬🇧
 - https://www.freecodecamp.org/ 🇬🇧
+- https://www.edx.org/course/introduction-computer-science-harvardx-cs50x 🇬🇧
 - [ゼロから学べる！プログラミングの無料学習サイト【国内外あわせて20選】](https://techacademy.jp/magazine/36) 🇯🇵
 
-## Knowledge sharing
+## Knowledge sharing 知識共有 👯‍♂️
 - https://qiita.com/ 🇯🇵
 - https://stackoverflow.com/ 🇬🇧
 
+## Online Coures / MOOCs / Certificates オンラインコース/ MOOC /証明書 🎓️
+- https://www.edx.org/learn/computer-programming
+- https://www.coursera.org/
+- https://grow.google/certificates
+
 ## Frontend フロントエンド ✨
 
-### Fundamentals
+### Fundamentals ファンダメンタルズ
 - [W3 Schools Javascript](https://www.w3schools.com/js/) 🔰 🇬🇧
 - [W3 Schools HTML](https://www.w3schools.com/html/default.asp) 🔰 🇬🇧
 - [W3 Schools CSS](https://www.w3schools.com/css/default.asp) 🔰 🇬🇧
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals) 🇬🇧
 
-### React (popular in Tokyo)
+
+### Typescript
+- https://www.tutorialspoint.com/typescript/index.htm 🔰
+
+### React (popular in Tokyo) ⚛️
 - https://reactjs.org/tutorial/tutorial.html 🇬🇧 🇯🇵
 
 ### Vue.js 
@@ -34,7 +46,7 @@
 ## Backend バックエンド 🧱
 
 ### Golang ⚙️
-- https://tour.golang.org/welcome/1 🇬🇧
+- https://tour.golang.org/welcome/1 🇬🇧 🔰
 - [Women Who Go Tokyo](https://twitter.com/wwg_tokyo?lang=en) 🇯🇵
 
 ### Python 🐍
@@ -42,7 +54,7 @@
 - https://diveintopython3.net/ 🇬🇧
 - https://www.coursera.org/specializations/python 🇬🇧 🔰
 
-### Ruby
+### Ruby 💎
 - https://poignant.guide/ 🇬🇧 🦊
 
 ### NodeJS
@@ -61,11 +73,16 @@
 - [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals)
 
 ## Blockchain ブロックチェーン ⛓️
-- https://cryptozombies.io/ 🇯🇵 🇬🇧
+- https://cryptozombies.io/ 🇯🇵 🇬🇧 🔰
 
 ## UI / UX 🎨
 - https://grow.google/uxdesign/#?modal_active=none 🇬🇧
 - [Hexagon UX](http://hexagonux.com/tokyo) 🇬🇧 🇯🇵
 
 ## Leadership リーダーシップ 👩‍🚀
-- [LeadDev](https://leaddev.com/) 🇬🇧
+- [LeadDev](https://leaddev.com/) 🇬🇧 👑
+
+## Algorithms & Interview Prep アルゴリズムと面接の準備 ⚙️
+- https://www.hackerrank.com/ 🇬🇧
+- https://www.khanacademy.org/computing/computer-science/algorithms 🇬🇧
+- https://www.coursera.org/learn/algorithms-part1 🇬🇧
