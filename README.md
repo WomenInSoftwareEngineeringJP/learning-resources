@@ -40,6 +40,7 @@
 ### Python 🐍
 - https://www.w3schools.com/python/default.asp 🇬🇧 🔰
 - https://diveintopython3.net/ 🇬🇧
+- https://www.coursera.org/specializations/python 🇬🇧 🔰
 
 ### Ruby
 - https://poignant.guide/ 🇬🇧 🦊
