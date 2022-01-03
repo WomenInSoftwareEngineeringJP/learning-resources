@@ -16,29 +16,39 @@
 - https://www.edx.org/course/introduction-computer-science-harvardx-cs50x 🇬🇧
 - [ゼロから学べる！プログラミングの無料学習サイト【国内外あわせて20選】](https://techacademy.jp/magazine/36) 🇯🇵
 
+## Git / SCM
+- https://dotinstall.com/lessons/basic_git 🔰 🇯🇵
+- https://www.w3schools.com/git/default.asp 🔰 🇬🇧
+- https://github.com/WWCodeTokyo/intro-to-git-and-gitlab 🔰 🇬🇧
+
 ## Knowledge sharing 知識共有 👯‍♂️
 - https://qiita.com/ 🇯🇵
 - https://stackoverflow.com/ 🇬🇧
 
-## Online Coures / MOOCs / Certificates オンラインコース/ MOOC /証明書 🎓️
+## Online Coures / MOOCs (Massive Open Online Courses) / Certificates オンラインコース/ MOOC /証明書 🎓️
 - https://www.edx.org/learn/computer-programming
 - https://www.coursera.org/
+- https://openlearning.mit.edu/
 - https://grow.google/certificates
 
 ## Frontend フロントエンド ✨
 
 ### Fundamentals ファンダメンタルズ
-- [W3 Schools Javascript](https://www.w3schools.com/js/) 🔰 🇬🇧
 - [W3 Schools HTML](https://www.w3schools.com/html/default.asp) 🔰 🇬🇧
 - [W3 Schools CSS](https://www.w3schools.com/css/default.asp) 🔰 🇬🇧
-- [Google Web Fundamentals](https://developers.google.com/web/fundamentals) 🇬🇧
+- [Google Web Fundamentals](https://developers.google.com/web/fundamentals) 🇬🇧 👑
 
+### JavaScript
+- [W3 Schools Javascript](https://www.w3schools.com/js/) 🔰 🇬🇧
+- https://scrimba.com/learn/learnjavascript 🔰
 
-### Typescript
-- https://www.tutorialspoint.com/typescript/index.htm 🔰
+### TypeScript
+- https://www.tutorialspoint.com/typescript/index.htm
 
 ### React (popular in Tokyo) ⚛️
 - https://reactjs.org/tutorial/tutorial.html 🇬🇧 🇯🇵
+- https://github.com/WWCodeTokyo/react-study-group 🇬🇧
+- https://scrimba.com/learn/learnreact 🇬🇧
 
 ### Vue.js 
 - [MDN: Vue getting started](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started) 🇬🇧
@@ -78,6 +88,7 @@
 ## UI / UX 🎨
 - https://grow.google/uxdesign/#?modal_active=none 🇬🇧
 - [Hexagon UX](http://hexagonux.com/tokyo) 🇬🇧 🇯🇵
+- https://www.coursera.org/specializations/interaction-design 🇬🇧
 
 ## Leadership リーダーシップ 👩‍🚀
 - [LeadDev](https://leaddev.com/) 🇬🇧 👑
