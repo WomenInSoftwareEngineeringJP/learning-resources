@@ -97,3 +97,9 @@
 - https://www.hackerrank.com/ 🇬🇧
 - https://www.khanacademy.org/computing/computer-science/algorithms 🇬🇧
 - https://www.coursera.org/learn/algorithms-part1 🇬🇧
+
+
+# Paid Learning Resources
+
+## Books
+- “アルゴリズムとデータ構造” :  algorithms and data structure  https://www.kspub.co.jp/book/detail/5128442.html 🇯🇵
